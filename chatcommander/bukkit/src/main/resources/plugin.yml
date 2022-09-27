@@ -1,0 +1,5 @@
+name: ChatCommander
+main: io.github.zxcvbnmasdfghjk7.chatcommander.ChatCommander
+version: dev-SNAPSHOT
+author: zxcvbnmasdfghjk7
+api-version: 1.19
